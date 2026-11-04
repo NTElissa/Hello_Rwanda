@@ -8,3 +8,6 @@ console.log(rwanda.name);
 console.log(rwanda.capital); 
 console.log(rwanda.population); 
 console.log(rwanda.currency); 
+
+
+wasdgyuewgsyugdfjesgdi
